@@ -201,7 +201,7 @@ void Roster::remove(string studentID) {
 int main() {
 
 
-	cout << "C867-Scripting & Programming Applications \t" << "\t Written in C++  StudentID: 000962307  Jessica Rickey" << endl;
+	cout << "C867-Scripting & Programming Applications \t" << "\t Written in C++  StudentID: 12345  Jane Doe" << endl;
 	cout << endl;
 	
 
